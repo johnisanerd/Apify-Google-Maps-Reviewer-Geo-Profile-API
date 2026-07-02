@@ -267,6 +267,10 @@ ChatGPT connects to the Apify MCP server through Developer mode (available on Ch
 
 More help: https://docs.apify.com/platform/integrations/mcp
 
+## Use this from n8n
+
+Available as an n8n community node, **[n8n-nodes-google-maps-reviewer-geo-profile-api](https://www.npmjs.com/package/n8n-nodes-google-maps-reviewer-geo-profile-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-google-maps-reviewer-geo-profile-api`, then use it in any workflow (it also works as an AI Agent tool).
+
 ---
 
 [**Made with care**](https://apify.com/johnvc?fpr=9n7kx3)
