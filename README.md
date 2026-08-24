@@ -277,4 +277,4 @@ Available as an n8n community node, **[n8n-nodes-google-maps-reviewer-geo-profil
 
 *Use the Google Maps Reviewer Geo Profile API to power your reviewer vetting and reputation research with reliable, structured results.*
 
-Last Updated: 2026.08.23
+Last Updated: 2026.08.24
